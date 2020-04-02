@@ -1,0 +1,18 @@
+{
+  "name": "bqc-arr-map",
+  "version": "1.0.1",
+  "description": "arr map function use ts",
+  "main": "./dist/test-array-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "bqc"
+  ],
+  "author": "bqc <6575734@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
